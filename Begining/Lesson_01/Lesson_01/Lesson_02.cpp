@@ -2,9 +2,7 @@
 using namespace std;
 void main()
 {
-	int num;
+	cout << "Привет, как дела?" << endl;
 	setlocale(LC_ALL, "Rus");
 	cout << "Привет, как дела?" << endl;
-	cin >> num;
-	cout << num;
 }
